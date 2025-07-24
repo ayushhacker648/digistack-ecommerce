@@ -26,7 +26,9 @@ This project provides a seamless shopping experience with dynamic product listin
 ---
 
 📦 Install dependencies
+
 npm install
 
 🚀 Start the development server
+
 npm run dev
