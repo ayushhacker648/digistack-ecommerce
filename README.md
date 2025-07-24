@@ -8,6 +8,7 @@ This project provides a seamless shopping experience with dynamic product listin
 ## 🚀 Features
 
 - 🖼️ Product carousel with dynamic data
+- 🔐 User Sign-in/Authentication using Clerk
 - 📦 Category-based product filtering
 - 🔍 Responsive UI for all devices (mobile, tablet, desktop)
 - 🛒 "Shop Now" call-to-action buttons
